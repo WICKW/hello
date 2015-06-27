@@ -6,3 +6,6 @@ What do you think?
 
 UPD(13_05_15)
 Nothing happens...
+
+UPD(27_06_15)
+And now i`m touching GIT strongly )
